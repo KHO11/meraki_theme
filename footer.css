@@ -1,0 +1,590 @@
+.site-footer {
+    height: 552px;
+    width: 100%;
+    background: #383838;
+    max-width: none;
+    position: relative;
+    top:25px;
+}
+
+.Services .site-footer {
+    top: 24px;
+    height: 552px;
+}
+
+[class="404"] .site-footer {
+    height:552px;
+    top: 15px;
+}
+
+.Articles .site-footer {
+    margin-top: 2750px;
+}
+
+.whiteMeraki {
+    width: 235px;
+    height: 55px;
+    filter :invert(100%);
+    margin-top: 90px;
+}
+
+[class="Strategic Planning"] .whiteMeraki {
+    margin-top: 120px;
+}
+
+[class="Free Resources"] .whiteMeraki {
+    margin-top: 120px;
+}
+
+.Articles .whiteMeraki {
+    margin-left: 0px;
+    margin-top: 120px;
+}
+
+.Services .whiteMeraki {
+    margin-top: 120px;
+}
+
+.Home .whiteMeraki {
+    margin-top: 119px;
+}
+
+[class="404"] .whiteMeraki {
+    margin-top: 120px;
+}
+
+.Home .site-footer {
+    position: relative;
+    height: 552px;
+    top: 24px;
+}
+
+.merakiLogo {
+    display: inline-block;
+    position: relative;
+}
+
+.mainLists {
+    display: inline-block;
+    margin-left: 480px;
+    margin-top: -250px;
+}
+
+[class="Strategic Planning"] .mainLists {
+    margin-top: -414px;
+}
+
+[class="Free Resources"] .mainLists {
+    margin-top: -70px;
+}
+
+.Services .mainLists {
+    display: inline-block;
+    margin-top: -288px;
+    margin-left: 480px;
+}
+
+.Home .mainLists {
+    margin-top: -70px;
+}
+
+[class="404"] .mainLists {
+    margin-top: -70px;
+}
+
+.Articles .mainLists {
+    margin-top: -70px;
+}
+
+.footerList {
+    display: inline-block;
+}
+
+.footerList label {
+    color: white;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: normal;
+    margin-left: 35px;
+}
+
+.footerList ul {
+    list-style: url("greenOval.png");
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.footerList li {
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.footerList li a {
+    color: white;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.footerList2 {
+    display: inline-block;
+    padding-left: 115px;
+}
+
+.footerList2 label {
+    color: white;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: normal;
+}
+
+.footerList2 ul {
+    list-style: url("greenOval.png");
+    position: relative;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+
+.footerList2 li {
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.footerList2 li a {
+    color: white;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.verticalLine {
+    display: inline-block;
+    position: relative;
+    margin-top: -450px;
+    margin-left: 485px;
+    display: inline-block;
+}
+
+.verticalLine2 {
+    display: inline-block;
+    margin-top: -450px;
+}
+
+.verticalLine2 img {
+    display: inline-block;
+    margin-right: 305px;
+}
+
+[class="Strategic Planning"] .verticalLine {
+    margin-top: -960px;
+}
+
+[class="Free Resources"] .verticalLine {
+    margin-top: -230px;
+}
+
+.Articles .verticalLine {
+    margin-top: -230px;
+}
+
+.Services .verticalLine {
+    margin-left: 485px;
+    margin-top: -708px;
+}
+
+[class="Strategic Planning"] .verticalLine2 {
+    margin-top: -960px;
+    margin-left: 308px;
+}
+
+[class="Free Resources"] .verticalLine2 {
+    margin-left: 305px;
+}
+
+.Articles .verticalLine2 {
+    margin-left: 305px;
+}
+
+.Services .verticalLine2 {
+    margin-top: -708px;
+    margin-left: 308px;
+}
+
+.Home .verticalLine {
+    margin-left: 485px;
+    margin-top: -230px;
+}
+
+.Home .verticalLine2 {
+    margin-top: -450px;
+    margin-left: 305px;
+}
+
+[class="404"] .verticalLine {
+    margin-top: -229px;
+}
+
+[class="404"] .verticalLine2 {
+    margin-left: 305px;
+}
+
+label.follow {
+    margin-left: 640px;
+    position: relative;
+    bottom: 380px;
+    color: white;
+    font-size: 18px;
+    line-height: 34px;
+}
+
+[class="Strategic Planning"] label.follow {
+    bottom: 1500px;
+}
+
+[class="Free Resources"] label.follow {
+    bottom: 1266px;
+}
+
+.Articles label.follow {
+    bottom: 123px;
+}
+
+.Services label.follow {
+    margin-left: 640px;
+    position: relative;
+    bottom: 888px;
+    color: white;
+    font-size: 18px;
+    line-height: 34px;
+}
+
+.Home label.follow {
+    margin-left: 640px;
+    bottom: 120px;
+}
+
+[class="404"] label.follow {
+    margin-left: 640px;
+    bottom: 128px;
+}
+
+hr.bottomLine {
+    width: 100%;
+    background: white;
+    margin-top: -450px;
+}
+
+[class="Free Resources"] hr.bottomLine {
+    margin-top: -67px;
+}
+
+.Articles hr.bottomLine {
+    margin-top: -67px;
+}
+
+.Services hr.bottomLine {
+    width: 100%;
+    background: white;
+    margin-top: -1178px;
+}
+
+.Home hr.bottomLine {
+    margin-top: -40px;
+    position: relative;
+}
+
+[class="404"] hr.bottomLine {
+    margin-top: -56px;
+}
+
+.Services label.rights {
+    margin-top: 10px;
+}
+
+.Home label.rights {
+    margin-top: 0;
+}
+
+[class="404"] label.rights {
+    position: relative;
+    top: 10px;
+}
+
+.Articles label.rights {
+    position: relative;
+    top: 10px;
+}
+
+.Home label.rights {
+    position: relative;
+    top: 10px;
+}
+
+[class="Free Resources"] label.rights {
+    position: relative;
+    top: 10px;
+}
+
+label.rights {
+    color: white;
+    margin-top: -20px;
+}
+
+
+
+
+  .lastList {
+      display: inline-block;
+      margin-left: 430px;
+      margin-top: -200px;
+  }
+
+  .Services .lastList {
+      display: inline-block;
+      margin-top: -386px;
+      margin-left: 430px;
+  }
+
+  .Home .lastList {
+      display: inline-block;
+      margin-left: 430px;
+  }
+
+  [class="404"] .lastList {
+      position: relative;
+      bottom: 10px;
+  }
+
+  [class="Free Resources"] .lastList {
+      position: relative;
+      bottom: 10px;
+  }
+
+  .Home .lastList {
+      position: relative;
+      bottom: 10px;
+  }
+
+  .Articles .lastList {
+      position: relative;
+      bottom: 10px;
+  }
+
+  .lastList ul {
+      display: inline-block;
+      list-style-type: none;
+  }
+
+  .lastList li {
+      color: white;
+      display: inline-block;
+      padding-left: 20px;
+  }
+
+  .lastList li a {
+      color: white;
+      font-size: 16px;
+      line-height: 18px;
+  }
+
+div.social {
+    display: inline-flex;
+    margin-left: 500px;
+    margin-top: -400px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid transparent;
+    height: 50px;
+}
+
+[class="Strategic Planning"] div.social {
+    margin-top: -1250px;
+}
+
+[class="Free Resources"] div.social {
+    margin-top: 0;
+    bottom: 113px;
+}
+
+.Articles div.social {
+    bottom: 113px;
+    margin-top: 0px;
+}
+
+.Home div.social {
+    display: inline-block;
+    margin-left: 510px;
+    padding-bottom: 75px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid transparent;
+    height: 50px;
+}
+
+
+[class="404"] div.social {
+    margin-left: 500px;
+    bottom: 102px;
+}
+
+span.icon.facebook {
+    height: 45.36px;
+    width: 45.36px;
+    display: block;
+    background: #757575;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 13px;
+    line-height: 50px;
+}
+
+.Home span.icon.facebook {
+    display: contents;
+}
+
+a.fab.fa-facebook-f {
+    color: white;
+    line-height: 45.36px;
+    font-size: 24px;
+}
+
+.Home a.fab.fa-facebook-f {
+    color: white;
+    line-height: 45.36px;
+    font-size: 24px;
+    background: #757575;
+    border-radius: 50%;
+    width: 45.36px;
+    height: 45.36px;
+}
+
+span.icon.instagram {
+    height: 45.36px;
+    width: 45.36px;
+    display: block;
+    background: #757575;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 13px;
+    line-height: 50px;
+}
+
+.Home span.icon.instagram {
+    display: contents;
+}
+
+a.fab.fa-instagram {
+    color: white;
+    line-height: 45.36px;
+    font-size: 24px;
+}
+
+.Home a.fab.fa-instagram {
+    color: white;
+    line-height: 45.36px;
+    font-size: 24px;
+    background: #757575;
+    border-radius: 50%;
+    width: 45.36px;
+    height: 45.36px;
+    margin-left: 10px;
+}
+
+.Articles a.fab.fa-instagram {
+    position: static;
+}
+
+span.icon.twitter {
+    height: 45.36px;
+    width: 45.36px;
+    display: block;
+    background: #757575;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 13px;
+    line-height: 50px;
+}
+
+.Home span.icon.twitter {
+    display: contents;
+}
+
+a.fab.fa-twitter {
+    color: white;
+    line-height: 45.36px;
+    font-size: 24px;
+}
+
+.Home a.fab.fa-twitter {
+    color: white;
+    line-height: 45.36px;
+    font-size: 24px;
+    background: #757575;
+    border-radius: 50%;
+    width: 45.36px;
+    height: 45.36px;
+    margin-left: 10px;
+}
+
+.Articles a.fab.fa-twitter {
+    position: static;
+}
+
+span.icon.linkedin {
+    height: 45.36px;
+    width: 45.36px;
+    display: block;
+    background: #757575;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 13px;
+    line-height: 50px;
+}
+
+.Home span.icon.linkedin {
+    display: contents;
+}
+
+a.fab.fa-linkedin-in {
+    color: white;
+    line-height: 45.36px;
+    font-size: 24px;
+}
+
+.Home a.fab.fa-linkedin-in {
+    color: white;
+    line-height: 45.36px;
+    font-size: 24px;
+    background: #757575;
+    border-radius: 50%;
+    width: 45.36px;
+    height: 45.36px;
+    margin-left: 10px;
+}
+
+
+.Services .social {
+    display: flex;
+    margin-left: 500px;
+    margin-top: -878px;
+    position: relative;
+}
+
+ .icon {
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.icon span {
+    height: 45.36px;
+    width: 45.36px;
+    display: block;
+    background: #757575;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 13px;
+}
+
+.icon span a {
+    font-size: 21px;
+    line-height: 45.36px;
+    color: white;
+}
