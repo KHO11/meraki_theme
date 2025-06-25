@@ -4,3 +4,6 @@ I was involved in coding the articles page, the footer and a 404 error page for 
 
 # Deployment
 http://meraki-consult.com/
+
+# Languages used
+HTML, CSS, JavaScript, Wordpress, PHP
